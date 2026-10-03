@@ -1,0 +1,18 @@
+{
+  "name": "your-rules-file",
+  "version": "1.0.0",
+  "description": "One rules file for your business, filled in from a short interview, that you paste into your assistant's instructions once so it writes like you, checks its facts, asks one question at a time, and never sends anything without your OK.",
+  "author": {
+    "name": "Teach Claude Your Business",
+    "url": "https://www.skool.com/teach-claude-your-business"
+  },
+  "homepage": "https://www.skool.com/teach-claude-your-business",
+  "license": "MIT",
+  "keywords": [
+    "small business",
+    "instructions",
+    "rules",
+    "voice",
+    "setup"
+  ]
+}
